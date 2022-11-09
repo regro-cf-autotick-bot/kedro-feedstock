@@ -120,7 +120,13 @@ Feedstock Maintainers
 =====================
 
 * [@idanov](https://github.com/idanov/)
-* [@lorenabalan](https://github.com/lorenabalan/)
 * [@marcelotrevisani](https://github.com/marcelotrevisani/)
 * [@yetudada](https://github.com/yetudada/)
+* [@merelcht](https://github.com/merelcht/)
+* [@AntonyMilneQB](https://github.com/AntonyMilneQB/)
+* [@AhdraMeraliQB](https://github.com/AhdraMeraliQB/)
+* [@jmholzer](https://github.com/jmholzer/)
+* [@NeroOkwa](https://github.com/NeroOkwa/)
+* [@noklam](https://github.com/noklam/)
+* [@SajidAlamQB](https://github.com/SajidAlamQB/)
 
