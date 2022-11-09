@@ -1,7 +1,7 @@
 About kedro
 ===========
 
-Home: https://github.com/quantumblacklabs/kedro
+Home: https://github.com/kedro-org/kedro
 
 Package license: Apache-2.0
 
